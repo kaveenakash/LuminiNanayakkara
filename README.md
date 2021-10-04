@@ -8,10 +8,11 @@
 
 ---
 - 👋 Hi, I’m @LuminiNanayakkara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Javascript libraries
+- ⚡ Fun fact: I love to play netball
+- 😄 Pronouns: she/Her
+- 📫 Contact Me at - lumininanayakkaraln@gmail.com
 
 <!---
 LuminiNanayakkara/LuminiNanayakkara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
